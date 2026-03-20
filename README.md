@@ -7,15 +7,15 @@
 A high-performance, motion-driven frontend web application inspired by award-winning creative agency designs. This project focuses on delivering an immersive, fluid user experience through complex scroll animations and modern UI architecture.
 
 <p align="center">
-  <img src="./public/hero.jpg" width="48%" alt="Hero Section" />
+  <img src="./public/hero.png" width="48%" alt="Hero Section" />
   <img src="./public/play-reel.png" width="48%" alt="Play Reel Section" />
 </p>
 <p align="center">
-  <img src="./public/grid.jpg" width="48%" alt="Image Grid Section" />
+  <img src="./public/grid.png" width="48%" alt="Image Grid Section" />
   <img src="./public/news.png" width="48%" alt="News Section" />
 </p>
 <p align="center">
-  <img src="./public/footer.png" width="97%" alt="Footer Section" />
+  <img src="./public/footer.png" width="60%" alt="Footer Section" />
 </p>
 
 >
