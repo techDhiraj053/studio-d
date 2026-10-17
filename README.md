@@ -59,20 +59,28 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/techDhiraj053/studio-d.git](https://github.com/techDhiraj053/studio-d.git)
+   git clone https://github.com/techDhiraj053/studio-d.git
+   cd studio-d
+   ```
 
-2. Install dependencies:
+2. **Install dependencies:**
    ```bash
    npm install
+   ```
 
-3. Run development server:
+3. **Run the development server:**
    ```bash
    npm run dev
+   ```
+
+   Then open http://localhost:5173 in your browser.
 
 ---
 
-👨‍💻 Author
-Dhiraj Kumar Singh MCA Student @ Lovely Professional University  
+👨‍💻 **Author**
+**Dhiraj Kumar Singh** — Full Stack Developer (MERN) | MCA Graduate, Lovely Professional University (2025)
+[GitHub](https://github.com/techDhiraj053) · [LinkedIn](https://www.linkedin.com/in/dhirajkr/)
+
 
 ---
 This project is part of my professional development portfolio, focusing on advanced frontend orchestration and UI/UX motion design.
